@@ -1,0 +1,151 @@
+{
+    "2024": [
+        {
+            "name": "高超(研究生)",
+            "photo": "headImages/高超.jpg"
+        },
+        {
+            "name": "李奕琪(研究生)",
+            "photo": "headImages/李奕琪.jpg"
+        },
+        {
+            "name": "付思杰(研究生)",
+            "photo": "headImages/付思杰.jpg"
+        },
+        {
+            "name": "刘言曌(研究生)",
+            "photo": "headImages/刘言曌.jpg"
+        },
+        {
+            "name": "何稣恒(研究生)",
+            "photo": "headImages/何稣恒.jpg"
+        }
+    ],
+    "2023": [
+        {
+            "name": "祝研珺(研究生)",
+            "photo": "headImages/祝研珺.jpg"
+        },
+        {
+            "name": "严帆(研究生)",
+            "photo": "headImages/严帆.jpg"
+        },
+        {
+            "name": "胡子健(研究生)",
+            "photo": "headImages/胡子健.jpg"
+        },
+        {
+            "name": "林伟峰(研究生)",
+            "photo": "headImages/林伟峰.jpg"
+        }
+    ],
+    "2022": [
+        {
+            "name": "樊龙(研究生)",
+            "photo": "headImages/樊龙.jpg"
+        },
+        {
+            "name": "尹景金(研究生)",
+            "photo": "headImages/尹景金.jpg"
+        },
+        {
+            "name": "田龙辉(研究生)",
+            "photo": "headImages/田龙辉.jpg"
+        }
+    ],
+    "2021": [
+        {
+            "name": "王逸之(研究生)",
+            "workplace": "赣州开放大学",
+            "photo": "headImages/王逸之.jpg"
+        },
+        {
+            "name": "谭贵森(研究生)",
+            "workplace": "南昌职业大学",
+            "photo": "headImages/谭贵森.jpg"
+        },
+        {
+            "name": "梅能(研究生)",
+            "workplace": "南昌师范学院",
+            "photo": "headImages/梅能.jpg"
+        }
+    ],
+    "2020": [
+        {
+            "name": "唐浩(研究生)",
+            "workplace": "江西省中小企业发展促进中心",
+            "photo": "headImages/唐浩.jpg"
+        },
+        {
+            "name": "李宁智(研究生)",
+            "workplace": "南昌职业大学",
+            "photo": "headImages/李宁智.jpg"
+        },
+        {
+            "name": "钟治忠(研究生)",
+            "workplace": "江西服装学院",
+            "photo": "headImages/钟治忠.jpg"
+        },
+        {
+            "name": "李教文(研究生)",
+            "workplace": "江西服装学院",
+            "photo": "headImages/李教文.jpg"
+        },
+        {
+            "name": "胡建成(研究生)",
+            "workplace": "南昌理工学院",
+            "photo": "headImages/胡建成.jpg"
+        },
+        {
+            "name": "尹子悦(本科生)",
+            "workplace": "中国移动",
+            "photo": "headImages/尹子悦.jpg"
+        }
+    ],
+    "2019": [
+        {
+            "name": "宋军彦(研究生)",
+            "workplace": "江西省林业资源监测中心",
+            "photo": "headImages/宋军彦.jpg"
+        },
+        {
+            "name": "吴艳林(研究生)",
+            "workplace": "广东工业大学",
+            "photo": "headImages/吴艳林.jpg"
+        },
+        {
+            "name": "黄君洪(研究生)",
+            "workplace": "吉林大学",
+            "photo": "headImages/黄君洪.jpg"
+        }
+    ],
+    "2018": [
+        {
+            "name": "蔡其昱(研究生)",
+            "workplace": "网易支付（杭州）有限公司",
+            "photo": "headImages/蔡其昱.jpg"
+        },
+        {
+            "name": "凌艺文(研究生)",
+            "workplace": "江西银行股份有限公司",
+            "photo": "headImages/凌艺文.jpg"
+        },
+        {
+            "name": "刘颖(本科生)",
+            "workplace": "长沙理工大学",
+            "photo": "headImages/刘颖.jpg"
+        }
+    ],
+    "2017": [
+        {
+            "name": "刘雨楠(研究生)",
+            "workplace": "海南软件职业技术学院",
+            "photo": "headImages/刘雨楠.jpg"
+        },
+        {
+            "name": "卢嘉鑫(研究生)",
+            "workplace": "江西省儿童医院",
+            "photo": "headImages/无照片.png"
+        }
+    ]
+}
